@@ -7,6 +7,7 @@ This project demonstrates a straightforward obfuscation technique that leverages
 -Generate a seed from an entropy string.
 
 -Obfuscate data using the generated seed.
+
 ---
 
 ## Explanation
