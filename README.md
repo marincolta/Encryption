@@ -87,7 +87,8 @@ The obfuscate struct and the crypt function work together to obfuscate data usin
 Besides that, even tho it obfuscate the data (from input) is still far better.
 ![image](https://github.com/user-attachments/assets/e6157cef-5ea7-4fcd-8514-6fa337148914)
 
-#End:
+---
+# End:
 Obfuscation techniques are quite interesting, but now I am focusing on understanding the process of deobfuscation.
 
 
