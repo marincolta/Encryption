@@ -3,6 +3,7 @@
 
 ## About:
 This project demonstrates a straightforward obfuscation technique that leverages a pseudo-random number generator (PRNG) and bitwise operations. It features functions to:
+
 -Generate a seed from an entropy string.
 -Obfuscate data using the generated seed.
 ---
